@@ -41,9 +41,11 @@
 
 Menu DefaultRootMenu
 {
-	"Alexis"		f.title
-	"New Window"		f.exec "st &"
-	"Internet Browser"	f.exec "firefox &"
+	"Lorblak"		f.title
+	"Terminal"		f.exec "st &"
+	"Internet Browser"	f.exec "brave-browser &"
+	"Telegram"	f.exec "Telegram"
+  "Ranger"        f.exec "st -e ranger &"
 	"Shuffle Up"		f.circle_up
 	"Shuffle Down"		f.circle_down
 	"Refresh"		f.refresh

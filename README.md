@@ -1,5 +1,4 @@
-# [MWM] Cool 90's sense
+# [MWM] Nostalgic Time - Lorblak Dotfiles
 
-![alt text](https://github.com/AlexisMtzGasca/mwm-arch-alexis/blob/main/screenshot.png?raw=true)
+[inspired in Cool 90's sense](https://github.com/AlexisMtzGasca/mwm-arch-alexis)
 
-https://www.reddit.com/r/unixporn/comments/j6ccex/mwm_cool_90s_sense/
