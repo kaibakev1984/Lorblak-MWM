@@ -46,6 +46,7 @@ Menu DefaultRootMenu
 	"Internet Browser"	f.exec "brave-browser &"
 	"Telegram"	f.exec "Telegram"
   "Ranger"        f.exec "st -e ranger &"
+  "Rofi"        f.exec "rofi -show run -theme chicago"
 	"Shuffle Up"		f.circle_up
 	"Shuffle Down"		f.circle_down
 	"Refresh"		f.refresh
