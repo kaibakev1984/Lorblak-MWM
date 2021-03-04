@@ -1,0 +1,24 @@
+*foreground:        #010000
+*background:        #c0c0c0
+*.foreground:       #010000
+*.background:       #c0c0c0
+
+XClock*foreground: #000000
+XClock*background: #c0c0c0
+XClock*majorColor:  rgba:01/00/00/ff
+XClock*minorColor:  rgba:01/00/00/ff
+XClock*hourColor:   rgba:01/00/00/ff
+XClock*minuteColor: rgba:01/00/00/ff
+XClock*secondColor: rgba:01/00/00/ff
+
+URxvt*depth: 32
+Mwm*background: #c0c0c0
+Mwm*activeBackground: #000080
+!Mwm*topShadowColor: #000000
+!Mwm*bottomShadowColor: #000000
+Mwm*foreground: #000000
+Mwm*activeForeground: #ffffff
+Mwm*menu*fontList: lucidasans-10
+Mwm*title*fontList: lucidasans-10
+Mwm*resizeBorderWidth:          4
+Mwm*frameBorderWidth:           4
