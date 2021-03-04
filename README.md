@@ -6,5 +6,9 @@ Instalar las siguientes herramientas:
 sudo apt-get -y hsetroot x11-xserver-utils xarclock
 ~~~
 
-[inspired in Cool 90's sense](https://github.com/AlexisMtzGasca/mwm-arch-alexis)
+**Nota**: Actualmente es un proyecto en desarrollo. Estaré actualizando los temas, agregando más funcionalidades y/o herramientas para disfrutar la experiencia con **mwm**.
+
+![living-the-past scheme](https://imgur.com/CkU62Jr)
+
+Inspired in [Cool 90's sense](https://github.com/AlexisMtzGasca/mwm-arch-alexis).
 
